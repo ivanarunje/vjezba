@@ -1,0 +1,23 @@
+{
+  "name": "vjezba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanarunje/vjezba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanarunje/vjezba/issues"
+  },
+  "homepage": "https://github.com/ivanarunje/vjezba#readme",
+  "dependencies": {
+    "coinflipperjs": "^1.0.0"
+  }
+}
